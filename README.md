@@ -1,6 +1,7 @@
 # Snowflake + Airflow ETL Project
 
-## Description
+This project implements an ETL pipeline using Python, Apache Airflow, SQL, and Snowflake. Airflow orchestrates the workflow, while Snowflake handles data loading, cleaning, and transformation across multiple health-related datasets. The pipeline produces a consolidated analytical table for downstream reporting and analysis. The project uses synthetic data and locally stored CSV files for development.
+
 This project demonstrates a modern data engineering workflow built from scratch for practice and portfolio purposes. It shows how to orchestrate ETL tasks using Apache Airflow and run transformations against a Snowflake data warehouse, with SQL and Python at the core.  
 
 ## Project Overview
